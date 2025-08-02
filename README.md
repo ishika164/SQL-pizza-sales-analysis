@@ -37,7 +37,7 @@ Consists of 4 CSV files:
 ## 📷 Presentation
 A visual summary is included in https://1drv.ms/b/c/81779773be55c70f/EWaC9nLGrepJrRjmK2QQL4oByTMjHWKf1YXvv4ezBVcOBQ?e=bWI0nO
 
-## 🖼 ER Diagram
+## 🖼 Database Schema
 <img width="1402" height="695" alt="Database schema" src="https://github.com/user-attachments/assets/57dea4b8-1485-4dd1-8507-72e38cdd26b2" />
 
 
